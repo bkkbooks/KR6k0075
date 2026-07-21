@@ -19,11 +19,11 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6k0075_000-X.yaml, hash: 'sha256:613c411554ee10b0c1a37a73fefbb6e636747db427206bb892321360e130bb99'}
+  - {seq: 0, filename: KR6k0075_000-X.yaml, hash: 'sha256:752ad152229b87923796c298c788ea4d6564edf1543c60d701bceb5f3f57a288'}
   - {seq: 1, filename: KR6k0075_001-X.yaml, hash: 'sha256:121c63488294c69fac2ca5f4fec32c82137261a4ade636ce4b1cadb3d891649b'}
   - {seq: 2, filename: KR6k0075_002-X.yaml, hash: 'sha256:5c76baf97ceb9e495c0b2228afab6acb17bc4a30a3e51432b1e5e679b2b502b2'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6k0075_000-X.markers.yaml, hash: 'sha256:ffaf1511aa67a5d0b50d93a44d1ea684356a39dd1a23cfd41c6a0494ab80ca9b'}
+  - {seq: 0, role: markers, filename: assets/KR6k0075_000-X.markers.yaml, hash: 'sha256:f9244bfa5d30e2ba51c00668b39704b5686ff192f6c778946fe9f878a7a1d71e'}
   - {seq: 1, role: markers, filename: assets/KR6k0075_001-X.markers.yaml, hash: 'sha256:a356de64d5e5d1f43e22aab64d54f65a7acd7041fd245686baca4a8787e8eb24'}
   - {seq: 2, role: markers, filename: assets/KR6k0075_002-X.markers.yaml, hash: 'sha256:905f05e15b3c5da4e24629ea4bc97153960ad41acb36f994a1578103f63e7bcf'}
 table_of_contents:
@@ -31,7 +31,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0075_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 751-A 佛說目連五百問戒律中輕重事經序
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0075_X_000-mulu-2
     span:
-    - front
+    - body
     - 565
     - 565
   label: 目次
@@ -289,4 +289,4 @@ table_of_contents:
   label: 偈讚
   type: mulu
   level: 1
-hash: sha256:d8d0e58a82b492360eda69083233cf3aaaedffdd1ee76d14c32c0732e22f09da
+hash: sha256:353c40d630b028c6c8a6e57ae755e040d659c54c5fda05873514a52da89b87a3
